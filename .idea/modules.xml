@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/udemy-langchain.iml" filepath="$PROJECT_DIR$/.idea/udemy-langchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/langchain-setup.iml" filepath="$PROJECT_DIR$/.idea/langchain-setup.iml" />
     </modules>
   </component>
 </project>
