@@ -1,0 +1,16 @@
+[project]
+name = "langchain-setup"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=26.10.1",
+    "deepseek>=1.0.0",
+    "isort>=9.0.2",
+    "langchain>=1.4.10",
+    "langchain-community>=0.4.2",
+    "langchain-core>=1.7.7",
+    "langchain-deepseek>=1.1.1",
+    "langchain-tavily>=0.2.18",
+    "python-dotenv>=1.2.4",
+    "tavily-python>=0.8.5",
+]
