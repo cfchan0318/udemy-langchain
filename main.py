@@ -14,7 +14,8 @@ from langchain.agents.structured_output import ToolStrategy
 
 #Scripts
 #from agents_under_the_hood.agent_loop_langchain_tool_calling import run_agent_main
-from agents_under_the_hood.agent_loop_raw_function_calling import run_agent_main
+#from agents_under_the_hood.agent_loop_raw_function_calling import run_agent_main
+from react_prompt_underneath.raw_react_prompt import run_agent_main
 
 class Source(BaseModel):
     """Schema for a source used by the agent"""
